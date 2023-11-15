@@ -29,4 +29,4 @@ In my free time, I work on various projects to enhance my skills. Here are a few
 I'd love to connect with you! You can find me on:
 
 - Personal Website: [link](https://kszymczycha.github.io)
-- My email: [email](kamilszymczycha@gmail.com)
+- My email: [kamilszymczycha@gmail.com](mailto:kamilszymczycha@gmail.com)

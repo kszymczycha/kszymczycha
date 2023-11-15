@@ -20,13 +20,13 @@ I primarily use Visual Studio Code (VSCode) in my daily workflow, but I'm active
 
 In my free time, I work on various projects to enhance my skills. Here are a few of them:
 
-1. [My personal website](https://kszymczycha.github.io)
-2. [CodePen](https://codepen.io/kszymczycha)
+1. [My website](https://kszymczycha.github.io)
+2. [My CodePen](https://codepen.io/kszymczycha)
 3. soon...
 
 ## Contact
 
 I'd love to connect with you! You can find me on:
 
-- Personal Website: [link](https://kszymczycha.github.io)
-- My email: [kamilszymczycha@gmail.com](mailto:kamilszymczycha@gmail.com)
+- Website: [link](https://kszymczycha.github.io)
+- Email: [kamilszymczycha@gmail.com](mailto:kamilszymczycha@gmail.com)

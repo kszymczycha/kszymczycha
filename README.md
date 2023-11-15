@@ -27,4 +27,4 @@ In my free time, I work on various projects to enhance my skills. Here are a few
 
 I'd love to connect with you! You can find me on:
 
-- Personal Website: [Your Personal Website](https://kszymczycha.github.io/)
+- Personal Website: [link](https://kszymczycha.github.io/)
